@@ -1,0 +1,16 @@
+{
+    "token": "access token",
+    "type": "処理の種類 (update)",
+    "ratio": "ホコリの比率(0~100[%])",
+    "concent": "ホコリの濃度[pcs/0.01cf]",
+    "light": "明るさ(数値、範囲不明)",
+    "wind": "風が強いか(bool)",
+    "temp": "気温[℃]",
+    "humid": "湿度[%]",
+    "press": "気圧[hPa]",
+    "rain": "雨センサ(bool)",
+    "weather" : "現在の天気(Clear, Clouds,...その他色々)",
+    "weather_desc" : "詳細な天気(clear sky, few clouds...)",
+    "weather_icon": "天気のアイコン(URL)",
+    "precipitation": "降水量(数値)"
+}
